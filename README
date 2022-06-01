@@ -1,0 +1,6 @@
+# Design-and-implementation-of-intelligent-fall-detection-system
+the model that is used in this project is from the link below: 
+"https://github.com/IKKIM00/fall-detection-and-predction-using-GRU-and-LSTM-with-Transfer-Learning"
+
+And the dataset used for training and testing in this project is from the article below:
+Farsi, M., 2021. Application of ensemble RNN deep neural network to the fall detection through IoT environment. Alexandria Engineering Journal, 60(1), pp.199-211.

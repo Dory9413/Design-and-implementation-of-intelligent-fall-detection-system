@@ -1,0 +1,5 @@
+@font-face {
+    font-family: iran_yekan;
+    src: url('IRANYekan.ttf') format('ttf'),
+        url('IRANYekan.woff') format('woff');
+}
